@@ -1,0 +1,19 @@
+G:\User Profile\Documents\2018 Assignments\Programming Project 321\CreditCardFraudDetectionSystem\CreditCardFraudDetectionSystem\DataAccess\bin\Debug\DataAccess.dll
+G:\User Profile\Documents\2018 Assignments\Programming Project 321\CreditCardFraudDetectionSystem\CreditCardFraudDetectionSystem\DataAccess\bin\Debug\DataAccess.pdb
+G:\User Profile\Documents\2018 Assignments\Programming Project 321\CreditCardFraudDetectionSystem\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccess.dll
+G:\User Profile\Documents\2018 Assignments\Programming Project 321\CreditCardFraudDetectionSystem\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Michael\Desktop\3rd Year Project August\CreditCardFraudDetectionSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Michael\Desktop\3rd Year Project August\CreditCardFraudDetectionSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Michael\Desktop\3rd Year Project August\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Michael\Desktop\3rd Year Project August\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccess.pdb
+E:\Belgium campus\3de jaar\3rd Year Project\3rd Year Project\August\August\CreditCardFraudDetectionSystem\DataAccess\bin\Debug\DataAccess.dll
+E:\Belgium campus\3de jaar\3rd Year Project\3rd Year Project\August\August\CreditCardFraudDetectionSystem\DataAccess\bin\Debug\DataAccess.pdb
+E:\Belgium campus\3de jaar\3rd Year Project\3rd Year Project\August\August\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Belgium campus\3de jaar\3rd Year Project\3rd Year Project\August\August\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccess.dll
+E:\Belgium campus\3de jaar\3rd Year Project\3rd Year Project\August\August\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccess.pdb
+D:\downloads\3rdyProject\CreditCardFraudDetectionSystem\DataAccess\bin\Debug\DataAccess.dll
+D:\downloads\3rdyProject\CreditCardFraudDetectionSystem\DataAccess\bin\Debug\DataAccess.pdb
+D:\downloads\3rdyProject\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\downloads\3rdyProject\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\downloads\3rdyProject\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccess.dll
+D:\downloads\3rdyProject\CreditCardFraudDetectionSystem\DataAccess\obj\Debug\DataAccess.pdb
